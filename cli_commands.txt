@@ -1,0 +1,3 @@
+py -2 -m pip install -r requirements.txt
+
+py -2 example.py -a ptc -u sethjones91 -p Liberty93 -l "32.614060, -85.490653" -st 20
